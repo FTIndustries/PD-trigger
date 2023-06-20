@@ -1,5 +1,5 @@
 # FT Industries USB-PD trigger board
-[한국어](https://github.com/FTIndustries/PD-trigger/blob/main/readme-ko.md)
+[한국어](https://github.com/FTIndustries/PD-trigger/blob/main/readme-ko.md)\
 ![preview](https://github.com/FTIndustries/PD-trigger/blob/main/3dpreview.png?raw=true)
 This board can act as USB-PD device and supply 5V,9V,12V,15V,20V up to 100W. Its input section is protected with TVS, so it it kinda safe from ESD.
 ## how to import
