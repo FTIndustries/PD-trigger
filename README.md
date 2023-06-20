@@ -1,6 +1,6 @@
-# FT Industries PD trigger board
+# FT Industries USB-PD trigger board
 ![preview](https://github.com/FTIndustries/PD-trigger/blob/main/3dpreview.png?raw=true)
-This board can act as USB-PD device and output 5V,9V,12V,20V. Its input section is protected with TVS, so it it kinda safe from ESD.
+This board can act as USB-PD device and supply 5V,9V,12V,15V,20V up to 100W. Its input section is protected with TVS, so it it kinda safe from ESD.
 ## how to import
 Open EasyEDA and import json files.
 ## how to use
